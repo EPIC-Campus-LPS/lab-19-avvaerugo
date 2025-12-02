@@ -1,5 +1,6 @@
-public interface List<E> {
+package lab19;
 
+public interface List<E> {
     /**
      * Add an element to the end of the list
      * @param element element to add to the list
